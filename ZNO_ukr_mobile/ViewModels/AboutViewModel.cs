@@ -10,7 +10,7 @@ namespace ZNO_ukr_mobile.ViewModels
         public AboutViewModel()
         {
             Title = "Головна";
-            OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamain-quickstart"));
+            //OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamain-quickstart"));
         }
 
         public ICommand OpenWebCommand { get; }
