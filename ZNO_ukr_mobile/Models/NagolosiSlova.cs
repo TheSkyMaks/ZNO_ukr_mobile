@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ZNO_ukr
+namespace ZNO_ukr_mobile
 {
     internal class NagolosiSlova
     {
