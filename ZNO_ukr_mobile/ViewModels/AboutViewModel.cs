@@ -9,7 +9,7 @@ namespace ZNO_ukr_mobile.ViewModels
     {
         public AboutViewModel()
         {
-            Title = "Наголоси";
+            Title = "Тренажер";
             //OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamain-quickstart"));
         }
 
